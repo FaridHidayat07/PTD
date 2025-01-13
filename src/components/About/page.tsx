@@ -23,7 +23,7 @@ function About() {
                 />
               </div>
               <p className="text-sm md:text-base">
-                Gunawan Halim merupakan pendiri dari money changer di lahir di
+                Gunawan Halim dari money changer di lahir di
                 bandar lampung tanggal 12 agustus 1945 money charger adalah
                 penyedia layanan penukaran valuta asing terpercaya yang berdiri
                 sejak 1998. Kami berkomitmen memberikan kurs yang kompetitif,
