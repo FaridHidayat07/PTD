@@ -1,5 +1,5 @@
 import About from "@/components/About/page";
-// import Footer from "@/components/footer/page";
+import Footer from "@/components/footer/page";
 import Gallery from "@/components/gallery/page";
 import Header from "@/components/header/page";
 import Navbar from "@/components/Navbar/page";
@@ -14,7 +14,7 @@ export default function Home() {
       <About/>
       {/* <CurrencyTable/> */}
       <Gallery/>
-      {/* <Footer/> */}
+      <Footer/>
     </>
   );
 }
