@@ -13,7 +13,15 @@ function About() {
           <div className="space-y-8">
             {/* Profile Section */}
             <div className="flex items-center gap-4">
-             
+              <div className="relative">
+                <Image
+                  src="/images/person.png"
+                  alt="Mr Crab"
+                  width={310}
+                  height={310}
+                  className="rounded-full"
+                />
+              </div>
               <p className="text-sm md:text-base">
                 Gunawan Halim merupakan pendiri dari money changer di lahir di
                 bandar lampung tanggal 12 agustus 1945 money charger adalah
